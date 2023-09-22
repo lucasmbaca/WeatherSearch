@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+# ☀️ Weather Consultant
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Weather Consultant is a user-friendly command-line tool that provides real-time weather information. Simply select a city and country, and it will retrieve the current temperature, as well as the minimum and maximum temperatures in Celsius.
 
-## Recommended IDE Setup
+## 🌦️ Features
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- **🌍 Location Selection:** Choose your desired city and country to check the weather.
+- **🌡️ Current Temperature:** Get the current temperature in Celsius.
+- **🔝 Maximum Temperature:** Find out the maximum temperature of the day.
+- **🔵 Minimum Temperature:** Discover the minimum temperature of the day.
+
+## 📋 Usage
+
+1. Enter the name of the city you want to check the weather for.
+2. specify the country for more accurate results.
+3. Receive real-time weather information, including the current temperature, minimum and maximum temperatures.
